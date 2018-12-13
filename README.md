@@ -21,9 +21,6 @@ This component is compatible with React Native 0.25 and newer.
 npm install react-native-smart-gesture-password --save
 ```
 
-## Full Demo
-
-see [ReactNativeComponentDemos][0]
 
 ## Usage
 
